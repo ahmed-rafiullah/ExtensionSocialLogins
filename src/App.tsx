@@ -41,7 +41,6 @@ function App() {
     };
   });
 
-
   return (
     <>
       {/* <h1>Login below</h1>
@@ -101,7 +100,7 @@ function App() {
       )}
 
       <h2>User Data</h2>
-      <pre>{JSON.stringify(user, undefined, 4)}</pre> */} */}
+      <pre>{JSON.stringify(user, undefined, 4)}</pre> */}
     </>
   );
 }
